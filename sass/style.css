@@ -13,9 +13,12 @@
 * ======================================================= */
 ::-webkit-scrollbar {
   width: 10px;
+  border-radius: 10px;
+  background-color: rgba(137, 43, 226, 0.37);
 }
 
 ::-webkit-scrollbar-thumb {
+  border-radius: 10px;
   background-color: blueviolet;
 }
 
